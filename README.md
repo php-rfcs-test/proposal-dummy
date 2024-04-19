@@ -2,7 +2,7 @@
 
  * Name: `dummy`
  * Date: 2024-09-02
- * Author: ALrry Garfield <nikic@php.net>, Ilija Tovillo <nikic@php.net>
+ * Author: Name Lastname <name.lastname@gmail.com>
  * Proposed Version: PHP 9.0
  * RFC and Vote: https://wiki.php.net/rfc/dummy
  * Mailing list thread: https://externals.io/message/XXXXXX
